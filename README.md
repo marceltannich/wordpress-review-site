@@ -1,3 +1,10 @@
+
+## WordPress Review Site
+
+
+This project shows a simple WordPress Headless CMS example fetching data from a WordPress backend using ReactJS, GraphQL & Apollo.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
